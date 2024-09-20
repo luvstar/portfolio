@@ -1,0 +1,1 @@
+EtherNet과 비슷한 통신 프로토콜로 독일의 Beckoff 사에서 개발한 산업용 EtherNet 통신을 EtherCAT 통신이라고 부릅니다.
